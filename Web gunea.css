@@ -76,21 +76,18 @@ ul {
     box-align: center;
 }
 #div-link {
-    margin-top: 20%;
-    margin-right: 13%;
+    height: 1%;
+    margin-top: 25%;
+    margin-right: -50%;
     text-align: right;
     position: static;
     color: black;
     font-size: 30px;
 }
-#div-link2 {
-    margin-top: 20%;
-    position: absolute;
-}
 #img-link {
-    width:5%;
-    margin-top: 2.5%;
-    margin-left: -5%;
+    width: 3%;
+    margin-top: -23%;
+    margin-right: 6%;
 }
 #imgWRC {
     width: 400px;
@@ -149,19 +146,19 @@ ul {
     position: relative;
 }
 .ul-nagusia {
-    max-width: 410%;
-    margin-top: -4%;
+    width: 90%;
+    margin-top: -3.8%;
     margin-left: -0.5%;
     position: absolute;
 }
 .ul-info {
-    margin-top: 61%;
+    margin-top: 63%;
     margin-left: 20%;
     max-width: fit-content;
     position: absolute;
 }
 .ul-info2 {
-    margin-top: 52.5%;
+    margin-top: 59%;
     margin-left: 20%;
     max-width: fit-content;
     position: absolute;
@@ -193,9 +190,9 @@ li a:hover:not(.active) {
 #edukia {
     background-color: #ffffff;
     width: 90%;
-    height: 50%;
+    height: 40%;
     left: 5%;    
-    margin-top: 47%;
+    margin-top: 1%;
     margin-bottom: 20%;
     position: absolute;
     overflow: hidden;
@@ -238,14 +235,14 @@ td {
     width: 30%;
     position: sticky;
     float: left;
-    margin-top: -20%;
+    margin-top: -15%;
     margin-left: 70%;
 }
 #imgTT {
     width: 350px;
     position: sticky;
     float: left;
-    margin-top: -12%;
+    margin-top: -10%;
     margin-left: 70%;
 }
 #imgSuspensioa {
@@ -273,7 +270,7 @@ p {
 }
 #p {
     color:rgb(17, 30, 99);
-    margin-top: 75%;
+    margin-top: 33%;
     position: absolute;
 }
 h2 {
